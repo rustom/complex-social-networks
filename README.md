@@ -1,0 +1,4 @@
+# mdt_complex_networks_2019
+Some of the code for my 2019 paper, "A Network Approach to the Formation of Self-assembled Teams", which was published by the International Conference on Complex Networks and Their Applications (Lisbon, Portugal)and presented at the 2019 Organizational Communication Mini-Conference (University of Illinois at Urbana-Champaign, IL). The code was written with researcher Diego Gómez-Zará, under the supervision of Dr. Noshir Contractor and Dr. Leslie DeChurch at Northwestern's SONIC Lab. 
+
+Please note that both the pre- and post-processed data for the project is not publicly available, so this code is just meant to represent the work I did during my time at SONIC. 
