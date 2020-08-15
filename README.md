@@ -1,4 +1,4 @@
-# A Network Approach to the Formation of Self-assembled Teams
+# Complex Networks and Online Team Self-Assembly
 
 <img src='pics/explaining1.jpeg' width="1100"/>
 
